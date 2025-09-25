@@ -52,6 +52,7 @@ body{
     background: black;
     border: 2px solid black;
     scale: 0.899;
+    font-weight: bold;
 }
 main {
     flex: 1;
